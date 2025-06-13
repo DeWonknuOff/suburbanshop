@@ -1,0 +1,20 @@
+[
+    {
+        "id": "sweater0",
+        "name": "Sudadera Oversize con Gr\u00e1ficos Grandes",
+        "price": 1200.0,
+        "image": "images/sweater0.jpg"
+    },
+    {
+        "id": "sweater1",
+        "name": "Sudadera con Capucha y Estampado Urbano",
+        "price": 950.0,
+        "image": "images/sweater1.jpg"
+    },
+    {
+        "id": "sweater2",
+        "name": "Sudadera Minimalista con Toques Techwear",
+        "price": 1400.0,
+        "image": "images/sweater2.jpg"
+    }
+]
